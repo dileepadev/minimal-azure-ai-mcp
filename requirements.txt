@@ -1,0 +1,18 @@
+# Optional: dotenv for environment variables if you use .env files
+python-dotenv
+
+# HTTP requests if needed (usually installed with MCP)
+requests
+
+# MCP Python SDK with CLI tools
+mcp[cli]
+
+# FastMCP
+fastmcp
+
+# Azure AI Foundry SDK and authentication
+azure-ai-projects
+azure-identity
+
+# Azure Functions
+azure-functions
